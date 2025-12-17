@@ -5,32 +5,58 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+## Journal Articles
 
+### 2024
 
+**Electrosynthesis of Transition Metal Coordinated Polymers for Active and Stable Oxygen Evolution**  
+X. Wang, F. Liu, H. Qin, J. Li, X. Chen, K. Liu, T. Zhao, **W. Yang**, M. Yu, G. Fan, F. Cheng  
+*Angewandte Chemie International Edition*, 63(39), e202409628 (2024)  
+[DOI: 10.1002/anie.202409628](https://doi.org/10.1002/anie.202409628)
 
+> Contributed as the sole undergraduate author. This work presents a novel approach to synthesizing transition metal coordinated polymers for efficient and stable oxygen evolution reaction in seawater electrolysis.
+
+---
+
+## Manuscripts in Preparation
+
+**Gradient Zinc Powder Anode with Enhanced Reaction Kinetics for Ultralong-Life Flexible Aqueous Zinc Pouch Cells**  
+**W. Yang**, Z. Wang, Q. Zhao, C.B. Mullins  
+*In preparation* (2024)
+
+> Led this project developing innovative zinc powder anodes achieving >5000 hours stable cycling, significantly outperforming existing technologies.
+
+---
+
+## Under Review
+
+**Research on the Mechanism of Small Batteries: Analyzing the Relationship between Battery Chemical Composition and Discharge Performance Using Ion Chromatography**  
+**W. Yang**, M. Zhu, T. Luo, X. Lan, Y. Zhang, J. Wen, J. He, J. Wen, C. Fu, Y. Li, Y. Li, C. Wang, L. Liu  
+*Chinese Journal of Chemistry Education* (Under review)
+
+> Pioneered a novel approach integrating ion chromatography with traditional discharge testing for comprehensive battery performance evaluation.
+
+---
+
+## Research Highlights
+
+### Electrochemical Energy Storage
+- Developed advanced zinc powder anodes with exceptional cycling stability
+- Achieved uniform metal deposition without dendrite formation
+- Demonstrated practical applicability in flexible pouch cell configurations
+
+### Electrocatalysis
+- Created corrosion-resistant catalysts for seawater oxygen evolution
+- Achieved industry-level current densities (500 mA cm⁻²) with 2000+ hours stability
+- Contributed to breakthrough NiFe-PPy catalyst system
+
+### Materials Characterization
+- Expertise in SEM, XRD, electrochemical analysis
+- Advanced understanding of structure-property relationships
+- Integration of multiple characterization techniques for comprehensive analysis
+
+---
+
+*For collaboration or questions about my research, please contact: wlyang@uchicago.edu*
