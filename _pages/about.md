@@ -22,20 +22,20 @@ I am a PhD student in the [Pritzker School of Molecular Engineering](https://pme
 ## Education
 
 **University of Chicago** | Chicago, IL  
-PhD in Pritzker School of Molecular Engineering | Sep 2025 - 
+*PhD in Pritzker School of Molecular Engineering | Sep 2025 - *
 *Advisor: Dr. Po-Chun Hsu*
 
 **Nankai University** | Tianjin, China  
-B.E. in New Energy Science & Engineering (Specialized Class) | Sep 2021 - Jun 2025  
+*B.E. in New Energy Science & Engineering (Specialized Class) | Sep 2021 - Jun 2025  *
 *Specialized program since 2019, initiated by CAS Academician Jun Chen*
 *Class Instructor: Dr. Qing Zhao since Sep 2021*
 
 **University of Texas at Austin** | Austin, TX  
-Undergraduate Research Assistant | Jul 2024 - Mar 2025
+*Undergraduate Research Assistant | Jul 2024 - Mar 2025*
 *Supervisor: Prof. C. Buddie Mullins*
 
 **Technical Institute of Physics and Chemistry, CAS** | Beijing, China 
-Undergraduate Research Assistant | June 2023 - Oct 2023
+*Undergraduate Research Assistant | June 2023 - Oct 2023*
 *Supervisor: Dr. Kaiqi Yan, Dr. Ping Wang*
   
 ## Recent News
