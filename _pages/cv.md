@@ -23,9 +23,9 @@ Undergraduate Research Assistant
 B.E. in New Energy Science & Engineering (Specialized Class)  
 *Sep 2021 – Jun 2025*
 
-**University of Texas at Austin** | Austin, TX, United States  
+**Technical Institute of Physics and Chemistry, CAS** | Beijing, China 
 Undergraduate Research Assistant  
-*Jul 2024 – Mar 2025*
+*Jun 2023 – Oct 2023*
 
 ---
 
@@ -34,9 +34,6 @@ Undergraduate Research Assistant
 1. **X. Wang, F. Liu, H. Qin, J. Li, X. Chen, K. Liu, T. Zhao, W. Yang, M. Yu, G. Fan, F. Cheng.** (2024) Electrosynthesis of Transition Metal Coordinated Polymers for Active and Stable Oxygen Evolution. *Angewandte Chemie*, 63(39), e202409628.  
    *Contributed as the sole undergraduate author*
 
-2. **W. Yang, Z. Wang, Q. Zhao, C.B. Mullins.** (2024) Gradient Zinc Powder Anode with Enhanced Reaction Kinetics for Ultralong-Life Flexible Aqueous Zinc Pouch Cells. *Manuscript in preparation.*
-
-3. **W. Yang, M. Zhu, T. Luo, X. Lan, Y. Zhang, J. Wen, J. He, J. Wen, C. Fu, Y. Li, Y. Li, C. Wang, L. Liu.** (2024) Research on the Mechanism of Small Batteries. *Chinese Journal of Chemistry Education*. *Under review.*
 
 ---
 
@@ -54,7 +51,7 @@ Supervisor: Professor Charles Buddie Mullins
 
 ### NiFe-PPy Electrolytic Seawater Oxygen Evolution Reaction Catalyst
 **Nankai University** | *Oct 2022 – Apr 2024*  
-Supervisors: Professor Fangyi Cheng, Professor Jun Chen
+Supervisors: Professor Fangyi Cheng
 
 - Developed highly efficient and corrosion-resistant NiFe-based polypyrrole (PPy) catalyst
 - Conducted comprehensive electrochemical testing in three-electrode cell systems
@@ -117,8 +114,8 @@ Nankai University | 2023
 ## Skills
 
 **Experimental Techniques**: SEM, XRD, FT-IR, NMR, DMA  
-**Software & Programming**: Origin, Python, MATLAB, 3D-Max  
-**Languages**: Mandarin (Native), English (IELTS 7)
+**Software & Programming**: Origin, Python, MATLAB, 3D-Max, COMSOL  
+**Languages**: Mandarin, English, Korean, Spanish
 
 ---
 
